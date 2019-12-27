@@ -1,14 +1,16 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+// 引入 自定义主页,First为views里的 ,而不是components里的
+import First from '../views/First.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   {
     path: '/',
-    name: 'home',
-    component: Home
+    name: 'First',
+    component: First
   },
   {
     path: '/about',

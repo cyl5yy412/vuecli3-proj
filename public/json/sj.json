@@ -1,0 +1,15 @@
+[
+    {
+        "id":"11",
+        "goodNme":"iPhone-no.1",
+        "imgUrl":"img/sj/sj1.jpg"
+    },{
+        "id":"22",
+        "goodNme":"iPhone-no.2",
+        "imgUrl":"img/sj/sj1.jpg"
+    },{
+        "id":"33",
+        "goodNme":"iPhone-no.3",
+        "imgUrl":"img/sj/sj1.jpg"
+    }
+]

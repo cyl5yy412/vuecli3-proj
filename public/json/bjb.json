@@ -1,0 +1,15 @@
+[
+    {
+        "id":"11",
+        "goodNme":"Mac-no.1",
+        "imgUrl":"img/bjb/bjb1.jpg"
+    },{
+        "id":"22",
+        "goodNme":"Mac-no.2",
+        "imgUrl":"img/bjb/bjb2.jpg"
+    },{
+        "id":"33",
+        "goodNme":"Mac-no.3",
+        "imgUrl":"img/bjb/bjb2.jpg"
+    }
+]
